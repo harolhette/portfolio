@@ -7,6 +7,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+body {
+    background-color: rgb(238, 236, 233);
+}
+
 .navbar {
     overflow: hidden;
     background-color: #FFD700;
@@ -62,6 +66,13 @@ main {
     border-radius: 50%;
     border: 2px solid #FFD700;
     margin-bottom: 20px;
+}
+
+span h1 {
+    text-align: center;
+    color: #FFD700;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
 }
 
 .home-container h1 {
